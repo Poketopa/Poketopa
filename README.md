@@ -32,8 +32,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><strong>📈 BOJ Stats</strong></td>
-    <td align="center"><strong>💻 GitHub Stats</strong></td>
+    <td align="center"><strong>BOJ Stats</strong></td>
+    <td align="center"><strong>GitHub Stats</strong></td>
   </tr>
   <tr>
     <td align="center">
