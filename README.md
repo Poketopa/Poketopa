@@ -28,14 +28,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & BOJ Stats
 
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs5427ll" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=poketopa&show_icons=true&theme=vue" height="150" />
-  <a href="https://solved.ac/lhs5427ll/">
-    
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>📈 BOJ Stats</strong></td>
+    <td align="center"><strong>💻 GitHub Stats</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/lhs5427ll/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs5427ll" height="150" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=poketopa&show_icons=true&theme=vue" height="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 
