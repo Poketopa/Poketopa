@@ -1,12 +1,6 @@
 <!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:43e97b,100:38f9d7&height=200&section=header&text=Fake%20It%20Till%20You%20Make%20It&fontSize=40&fontAlignY=35&fontColor=ffffff" />
 
-<!-- 간단 소개 -->
-<h2 align="center">Coding backend as if I already am one — because one day, I will be.</h2>
-<br>
-
----
-
 ### 👩‍💻 About Me - Lim HyunSung
 
 - 🎓  Studying at the **Department of AI Cyber Security, Korea University Sejong Campus**
