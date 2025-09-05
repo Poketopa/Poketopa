@@ -1,7 +1,7 @@
 <!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:43e97b,100:38f9d7&height=200&section=header&text=Fake%20It%20Till%20You%20Make%20It&fontSize=40&fontAlignY=35&fontColor=ffffff" />
 
-### 👩‍💻 About Me - Lim HyunSung
+### 👩‍💻 Lim HyunSung
 
 - 🎓  Studying at the **Department of AI Cyber Security, Korea University Sejong Campus**
 - 💻  Aspiring **backend developer** with focus on Java, Spring, and JPA
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
 ---
