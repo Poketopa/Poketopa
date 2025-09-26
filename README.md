@@ -8,7 +8,7 @@
   
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 GitHub & BOJ Stats
+### GitHub & BOJ Stats
 
 <table align="center">
   <tr>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🙌 Thanks for visiting!
+### Thanks for visiting
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:43e97b,100:38f9d7&height=100&section=footer"/>
