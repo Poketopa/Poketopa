@@ -1,10 +1,10 @@
 <!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:43e97b,100:38f9d7&height=200&section=header&text=Fake%20It%20Till%20You%20Make%20It&fontSize=40&fontAlignY=35&fontColor=ffffff" />
 
-### 👩‍💻 Lim HyunSung
+### Lim HyunSung
 
-- 🎓  Studying at the **Department of AI Cyber Security, Korea University Sejong Campus**
-- 💻  Aspiring **backend developer** with focus on Java, Spring, and JPA
+- **Department of AI Cyber Security, Korea University Sejong Campus**
+- Aspiring **backend developer** with focus on Java, Spring, and JPA
   
 ---
 
