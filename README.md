@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="50%" valign="top">
       <strong>GitHub Stats</strong><br/><br/>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=poketopa&show_icons=true&theme=vue&height=170" height="170" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=poketopa&theme=vue&hide_border=false" alt="streak stats" >
     </td>
   </tr>
 </table>
